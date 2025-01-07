@@ -4,3 +4,4 @@ We have to  convert a file containing a grid of height  values into a 3d wirefra
 
 ## Example
 
+![fractal](./Screenshot/Earth.png)
